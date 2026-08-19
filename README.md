@@ -1,0 +1,1 @@
+# szh-bot-data
